@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Alex Humphrey 👋  
+🎓 Instructional Designer | Educator | Curriculum Developer  
+📍 Based in the Midwest | Passionate about tech-integrated learning
 
-<!--
-**alexhumphrey7718/alexhumphrey7718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Share Here:
+- Sample Storyline 360 and Rise project files
+- Learning strategy documentation
+- Visual learning assets (graphics, PDFs, course maps)
+- Code snippets from Articulate, xAPI, or HTML widgets
+- Learning design resources and templates
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s connect!  
+📧 alex.humphrey7718@gmail.com  
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/alexhumphrey7718)
